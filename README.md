@@ -1,3 +1,5 @@
+See NOTES.md for details.
+
 # Hiring test starter
 
 A minimal Laravel 11 + Vue 3 starter for the senior dev test task.
